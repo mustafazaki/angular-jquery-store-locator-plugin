@@ -1,6 +1,6 @@
 # Angular jQuery Store Locator Plugin
 
-This project was created  using  [jQuery Store Locator Plugin](https://github.com/bjorn2404/jQuery-Store-Locator-Plugin) and [Google Maps API Loader](https://www.npmjs.com/package/google-maps-api-loader)  
+This project was created  using  [jQuery Store Locator Plugin](https://github.com/bjorn2404/jQuery-Store-Locator-Plugin) and [Google Maps API Loader](https://www.npmjs.com/package/google-maps-api-loader). Working demo here http://worried-water.surge.sh  
 
 ## StoreLocator
 
